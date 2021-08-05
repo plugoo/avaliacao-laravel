@@ -1,1 +1,58 @@
-# avaliacao-laravel
+<img src="https://ajuda.plugoo.com.br/imagens/logo.png" class="custom-logo" alt="Plugoo HUB" width="200">
+
+# Avaliação prática - Laravel
+
+Essa avaliação visa avaliar os conhecimentos do candidato a vaga de programador PHP Laravel.
+
+# Objetivos
+
+    Conhecer um pouco de suas habilidades em:
+        Laravel;
+        Entendimento e análise dos requisitos;
+        Capacidade de inovar;
+        Determinação na busca de soluções;
+        Responsabilidade na tomada de decisões.
+
+# Fique tranquilo
+
+    Todo e qualquer código desenvolvido nesse teste não será utilizado em quaisquer outros softwares nem comercializados pela Plugoo.
+    O propósito deste teste é apenas avaliar o conhecimento em programaçao do candidato.
+
+# Vamos lá! A aplicação é...
+
+Criem uma aplicação utilizando Laravel, MySql e quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve prover um sistema de Login e nível de acesso simples. O administrador do sistema deverá Manter permissões e Manter usuários, cada usuário com uma ou mais permissões para a execução das seguintes tarefas:
+
+    Manter produtos;
+    Manter categorias;
+    Manter marcas.
+
+Não necessita desenvolver os CRUDs referentes às tarefas acima. Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim de testarmos se o usuário pode acessa-las ou não;
+
+    O administrador não tem acesso às tarefas relacionadas a manter produtos, categorias e marcas;
+    Apenas os CRUDs de usuário e permissões são necessários.
+
+# Sobre os usuários
+
+    Administrador;
+    Comum;
+
+# Requisitos
+
+    Usar Laravel (Última versão estável);
+    Usar banco de dados Mysql;
+    Usar o github ou bitbucket;
+    No demais fique a vontade para utilizar todos os seus conhecimentos e técnicas possíveis.
+
+# Para participar basta...
+
+    Construir a aplicação solicitada;
+    Enviar o link do projeto no github ou bitbucket para o e-mail: wesley@plugoo.com.br;
+    Juntamente com o link acima mencionado nos envie também o seu curriculum atualizado;
+    Informe também sua disponibilidade para ínicio das atividades caso venha a fazer parte de nossa equipe.
+
+# Caso precise falar conosco
+
+    Email: wesley@plugoo.com.br
+    Fone/WhatsApp: (71) 4042-0408
+
+Fique a vontade para entrar em contato conosco se você tenha alguma dúvida ou assim que terminar a aplicação.
